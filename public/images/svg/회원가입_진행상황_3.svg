@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="268" height="8" viewBox="0 0 268 8">
+    <defs>
+        <style>
+            .cls-1{fill:rgba(0,0,0,.2)}.cls-2{fill:#ccc}
+        </style>
+    </defs>
+    <g id="그룹_25" data-name="그룹 25" transform="translate(3164 3361)">
+        <path id="패스_15" d="M0 0h260v1H0z" class="cls-1" data-name="패스 15" transform="translate(-3160 -3357.5)"/>
+        <path id="패스_8" d="M4 0a4 4 0 1 1-4 4 4 4 0 0 1 4-4z" data-name="패스 8" transform="translate(-3164 -3361)"/>
+        <path id="패스_185" d="M4 0a4 4 0 1 1-4 4 4 4 0 0 1 4-4z" data-name="패스 185" transform="translate(-3112 -3361)"/>
+        <path id="패스_186" d="M4 0a4 4 0 1 1-4 4 4 4 0 0 1 4-4z" data-name="패스 186" transform="translate(-3060 -3361)"/>
+        <path id="패스_187" d="M4 0a4 4 0 1 1-4 4 4 4 0 0 1 4-4z" class="cls-2" data-name="패스 187" transform="translate(-3008 -3361)"/>
+        <path id="패스_188" d="M4 0a4 4 0 1 1-4 4 4 4 0 0 1 4-4z" class="cls-2" data-name="패스 188" transform="translate(-2956 -3361)"/>
+        <path id="패스_189" d="M4 0a4 4 0 1 1-4 4 4 4 0 0 1 4-4z" class="cls-2" data-name="패스 189" transform="translate(-2904 -3361)"/>
+        <path id="사각형_60" d="M0 0h104v1H0z" data-name="사각형 60" transform="translate(-3160 -3357.5)"/>
+    </g>
+</svg>
